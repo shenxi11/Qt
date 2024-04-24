@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/play">
+        <file>play/day.png</file>
+        <file>play/day1.png</file>
+        <file>play/sun.png</file>
+        <file>play/choose.png</file>
+        <file>play/Car.png</file>
+        <file>play/begin.png</file>
+        <file>play/fail.png</file>
+        <file>play/shovel.png</file>
+        <file>play/shovelBack.png</file>
+        <file>play/SunBank.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>music/menu1.ogg</file>
+        <file>music/hit.wav</file>
+        <file>music/eat.wav</file>
+        <file>music/hit_01.wav</file>
+        <file>music/hit_2.wav</file>
+        <file>music/eat1.wav</file>
+    </qresource>
+</RCC>

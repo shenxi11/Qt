@@ -1,0 +1,7 @@
+1 400 50 5 0 :/plant/XiangRiKui.gif :/plant/card_sunflower.png :/new/play/play/sun.png 50 0 :/plant/card_sunflowerGray.png
+2 400 50 1 1 :/plant/pea.gif :/plant/card_peashooter.png :/plant/pea.png 1 8 :/plant/card_peashooterGray.png
+3 2000 0 10 2 :/plant/nut.gif :/plant/card_wallnut.png :/plant/nut1.png 50 0 :/plant/card_wallnutGray.png
+4 400 50 1 5 :/plant/Cabbagepitcher.gif :/plant/Cabbagepult_Card.png :/plant/Cababge_bullet.gif 25 8 :/plant/Cabbagepult_CardGray.png
+5 100 114514 1 3 :/plant/Jalapeno.gif :/plant/card_jalapeno.png :/plant/Jalapeno.png 25 10 :/plant/card_jalapenoGray.png
+6 300 114514 1 4 :/plant/Sleep.gif :/plant/DoomShroomCard.png :/plant/DoomShroom.png 20 4 :/plant/DoomShroomCardGray.png
+

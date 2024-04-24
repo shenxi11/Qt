@@ -1,0 +1,3 @@
+200 100 :/pvz/zombie/Zombie.gif :/pvz/zombie/ZombieAttack.gif :/pvz/zombie/ZombieDie.gif
+400 100 :/pvz/zombie/ConeheadZombie.gif :/pvz/zombie/ConeheadZombieAttack.gif :/pvz/zombie/ZombieDie.gif
+800 100 :/pvz/zombie/BucketheadZombie.gif :/pvz/zombie/BucketheadZombieAttack.gif :/pvz/zombie/ZombieDie.gif
